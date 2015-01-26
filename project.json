@@ -1,0 +1,10 @@
+{
+    "name": "Fun1",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "Fun1.xml",
+    "author": "IcewireMakerspace",
+    "minimum_firmware_version": 42
+}
